@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{3D28DAC4-AC0D-4064-9F4D-92D8D6786907}'];loadHandler&&loadHandler(0, '<div id="spr0_ce7bee9"><div id="spr1_ce7bee9" class="kern slide"><img id="img4_ce7bee9" src="data/img4.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_ce7bee9" style="left:837.07px;top:20.25px;"><img id="img0_ce7bee9" src="data/img0.png" width="74" height="77" alt="A red and white design on a black background\
+\
+Description automatically generated" style="left:1.875px;top:0.875px;"/></div><div id="spr4_ce7bee9" style="left:430.5px;top:20.25px;"><img id="img1_ce7bee9" src="data/img1.png" width="135" height="79" alt="A logo with a black background\
+\
+Description automatically generated" style="left:0.132px;top:-0.125px;"/></div><div id="spr5_ce7bee9" style="left:44.18px;top:20.25px;"><img id="img2_ce7bee9" src="data/img2.png" width="93" height="69" alt="A hand holding a book\
+\
+Description automatically generated" style="left:5.15px;top:5.875px;"/></div></div><div id="spr2_ce7bee9" class="kern slide"><div id="spr6_ce7bee9" style="left:10.63px;top:6.86px;"><img id="img3_ce7bee9" src="data/img3.png" width="939" height="526" alt="" style="left:-0.13px;top:0.14px;"/></div></div></div>', '{"s":[]}');})();
